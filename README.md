@@ -34,13 +34,18 @@ A menu-driven Java console application that demonstrates Object-Oriented Program
 ---
 
 ##  Project Structure
-
-```
-Fruit-Basket-Management-System
+fruit_basket_management_system
 │
-├── Fruitbasket.java
+│   └── com
+│       └── app
+│           └── fruitmanagement
+│               ├── Apple.java
+│               ├── Fruit.java
+│               ├── FruitBasket.java
+│               ├── Mango.java
+│               └── Orange.java
+│
 └── README.md
-```
 
 ---
 
