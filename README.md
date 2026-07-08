@@ -20,6 +20,7 @@ A menu-driven Java console application that demonstrates Object-Oriented Program
 - Java
 - Object-Oriented Programming (OOP)
 - Scanner Class
+- Exception Handling
 
 ---
 
